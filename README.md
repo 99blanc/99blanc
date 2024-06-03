@@ -11,8 +11,6 @@
 
 ##### .Edu : Seowon Univ. (Computer Engineering), Chungbuk Game Academy , GongJu Unity Bootcamp
 
-##### Programming Language : Java, "C#", C
-
 # Tech Stack
 
 <img src="https://img.shields.io/badge/Unity-a9a9a9?style=for-the-badge&logo=Unity&logoColor=000000"> <img src="https://img.shields.io/badge/CSharp-fff0f5?style=for-the-badge&logo=CSharp&logoColor=da70d6"> <img src="https://img.shields.io/badge/SQL-fddcba?style=for-the-badge&logo=MySQL&logoColor=black">
