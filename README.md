@@ -10,7 +10,7 @@
 tpgus990421@gmail.com
 
 ### .Link
-[![YouTube](https://img.shields.io/badge/Youtube-fa8072?style=for-the-badge&logo=Youtube&logoColor=ff0800)](https://youtube.com/@99blanc) [![Blog](https://img.shields.io/badge/Blog-fbfcf8?style=for-the-badge&logo=Velog&logoColor=3ede97)](https://velog.io/@t990421)
+[![YouTube](https://img.shields.io/badge/Youtube-fa8072?style=flat-square&logo=youtube&logoColor=ff0800)](https://youtube.com/@99blanc) [![Velog](https://img.shields.io/badge/Velog-fbfcf8?style=for-the-badge&logo=velog&logoColor=3ede97)](https://velog.io/@t990421)
 
 ### .Edu
 1) Korea Chamber of Commerce and Ind. Unity Bootcamp
