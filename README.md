@@ -17,6 +17,6 @@ tpgus990421@gmail.com
 2) Chungbuk Game Academy
 
 ### .Tech Stack
-<img src="https://img.shields.io/badge/Unity-a9a9a9?style=flat-square&logo=Unity&logoColor=black"> <img src="https://img.shields.io/badge/CSharp-fff0f5?style=flat-square&logo=C-Sharp&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-87cefa?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-a9a9a9?style=flat-square&logo=unity&logoColor=black"> <img src="https://img.shields.io/badge/CSharp-fff0f5?style=flat-square&logo=sharp&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-87cefa?style=flat-square&logo=mysql&logoColor=white">
 
 </div>
