@@ -19,7 +19,8 @@ tpgus990421@gmail.com
 ### .Tech Stack
 <img src="https://img.shields.io/badge/Unity-a9a9a9?style=flat-square&logo=unity&logoColor=black"> <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=sharp&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-87cefa?style=flat-square&logo=mysql&logoColor=white">
 
-</div>
 ![image](https://github.com/user-attachments/assets/aa237465-f2e9-49ae-a5a9-70b156b7a871)
 ![image](https://github.com/user-attachments/assets/f299ee57-8463-4060-a325-287feedf996e)
+
+</div>
 
